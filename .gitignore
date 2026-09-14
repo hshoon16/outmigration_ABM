@@ -1,0 +1,7 @@
+Result.docx
+code vectorization.pptx
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
